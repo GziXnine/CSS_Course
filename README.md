@@ -60,43 +60,94 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   <br>
     <summary><mark><span>👉</span> Click Here To Watch Videos In </mark><strong>YouTube</strong></summary>
 
-  1. `Watched` - [Introduction And What I Need To Learn?](https://www.youtube.com/watch?v=6QAELgirvjs&t=6s)
-  2. `Watched` - [Elements And Browser](https://www.youtube.com/watch?v=7LxA9qXUY5k)
-  3. `Watched` - [First Project And First Page](https://www.youtube.com/watch?v=QG5aEmS9Fu0)
-  4. `Watched` - [Head And Nested Elements](https://www.youtube.com/watch?v=dVgTBEYCseU)
-  5. `Watched` - [Comments And Use Cases](https://www.youtube.com/watch?v=3lXuWHtm7PM)
-  6. `Watched` - [Doctype And Standard And Quirks Mode](https://www.youtube.com/watch?v=sBFemL2Mfj4)
-  7. `Watched` - [Headings And Use Cases](https://www.youtube.com/watch?v=XxkX8wnRq3s)
-  8. `Watched` - [Syntax And Tests](https://www.youtube.com/watch?v=S58smWj5Yn0)
-  9. `Watched` - [Paragraph Element](https://www.youtube.com/watch?v=Fpibp-291xQ)
-  10. `Watched` - [Element Attributes](https://www.youtube.com/watch?v=nCpNsMgyzh4)
-  11. `Watched` - [Formatting Elements](https://www.youtube.com/watch?v=zhwqvfoi50Q)
-  12. `Watched` - [Links – Anchor Tag](https://www.youtube.com/watch?v=7TQhxAOjd1w)
-  13. `Watched` - [Image And Deal With Paths](https://www.youtube.com/watch?v=FmIUk3bWGmU)
-  14. `Watched` - [Lists – Ul, Ol, DL](https://www.youtube.com/watch?v=8Z7zR-UGjcQ)
-  15. `Watched` - [Table](https://www.youtube.com/watch?v=SUW49Jjxvac)
-  16. `Watched` - [Span And Break And Horizontal Rule](https://www.youtube.com/watch?v=T2myRpY2iN4)
-  17. `Watched` - [Div And How To Use](https://www.youtube.com/watch?v=IGeh2mlM9Rg)
-  18. `Watched` - [HTML Entities](https://www.youtube.com/watch?v=B8raKziIYyY)
-  19. `Watched` - [Semantic Elements](https://www.youtube.com/watch?v=xlQwlfvrDuI)
-  20. `Watched` - [Layout With Div And Classes](https://www.youtube.com/watch?v=r6LhFImQxeE)
-  21. `Watched` - [Layout With Semantic Elements](https://www.youtube.com/watch?v=uj5lC-GQPEw)
-  22. `Watched` - [Audio](https://www.youtube.com/watch?v=KltQb6cJSd8)
-  23. `Watched` - [Video](https://www.youtube.com/watch?v=oJbo28ewnL4)
-  24. `Watched` - [Form Part 1 – Input Types And Label](https://www.youtube.com/watch?v=inC9gWjNMJI)
-  25. `Watched` - [Form Part 2 – Required, Placeholder, Value](https://www.youtube.com/watch?v=3xd1IQ3llBk)
-  26. `Watched` - [Form Part 3 – Action, Name, Method](https://www.youtube.com/watch?v=Anfn7RzoDHw)
-  27. `Watched` - [Form Part 4 – Hidden, Reset, Color, Range, Number](https://www.youtube.com/watch?v=ZUax-YsT57I)
-  28. `Watched` - [Form Part 5 – Read Only, Disabled, Auto Focus](https://www.youtube.com/watch?v=rpPIRitcAn8)
-  29. `Watched` - [Form Part 6 – Radio And Checkbox](https://www.youtube.com/watch?v=YAcn1MyAcDM)
-  30. `Watched` - [Form Part 7 – Select And Textarea](https://www.youtube.com/watch?v=HGB42mnD0o4)
-  31. `Watched` - [Form Part 8 – File, Search, URL, Time](https://www.youtube.com/watch?v=cSmE9cVeaYg)
-  32. `Watched` - [Form Part 9 – Data List, NoValidate, Target](https://www.youtube.com/watch?v=X_TGbRuZ80Q)
-  33. `Watched` - [Q, BlockQuote, Wbr, Bdi, Button](https://www.youtube.com/watch?v=AzjtVtxoBLc)
-  34. `Watched` - [iFrame, Pre, Code](https://www.youtube.com/watch?v=aycYLVSOtZo)
-  35. `Watched` - [Accessibility Introduction](https://www.youtube.com/watch?v=lSqXHePabFo)
-  36. `Watched` - [ARIA And Screen Readers](https://www.youtube.com/watch?v=UnTxFfbpqco)
-  37. `Watched` - [The End And What To Do](https://www.youtube.com/watch?v=ysJQH5uPfTg)
+  1. `Watched` - [Introduction And What I Need To Learn](https://www.youtube.com/watch?v=X1ulCwyhCVM&t=4s)
+  2. `Watched` - [Your First Project And Syntax](https://www.youtube.com/watch?v=89VLfs-wpEY&t=7s)
+  3. `Watched` - [Element Styling](https://www.youtube.com/watch?v=66sjwQ-hB64)
+  4. `Watched` - [Name Conventions And Rules](https://www.youtube.com/watch?v=xkNpIsbxMuo)
+  5. `Watched` - [Background - Color, Image, Repeat](https://www.youtube.com/watch?v=-srybsn3YDM)
+  6. `Watched` - [Background - Attachment, Position, Size](https://www.youtube.com/watch?v=8sooTBY5C4w)
+  7. `Watched` - [Padding](https://www.youtube.com/watch?v=-wdlA-wFv9A)
+  8. `Watched` - [Margin](https://www.youtube.com/watch?v=LEJkJ0AiKDw)
+  9. `Watched` - [Border](https://www.youtube.com/watch?v=XE7d1OoljyI)
+  10. `Watched` - [Outline](https://www.youtube.com/watch?v=NyOaxP-Adac)
+  11. `Watched` - [Display - Block, Inline Block, Inline](https://www.youtube.com/watch?v=-qbGxua98To)
+  12. `Watched` - [Element Visibility And Use Cases](https://www.youtube.com/watch?v=g2URo6kLtgg)
+  13. `Watched` - [Grouping Multiple Selectors](https://www.youtube.com/watch?v=NTccbXHW7AM)
+  14. `Watched` - [Nesting](https://www.youtube.com/watch?v=wo_S_Mfl3yg)
+  15. `Watched` - [Dimensions - Width And Height](https://www.youtube.com/watch?v=GIWYpmiv1Hc)
+  16. `Watched` - [Overflow - Overflow-X And Overflow-Y](https://www.youtube.com/watch?v=FQLRSbVdk28)
+  17. `Watched` - [Text - Color And Shadow](https://www.youtube.com/watch?v=P3xdm7md7AE)
+  18. `Watched` - [Text - Alignment](https://www.youtube.com/watch?v=IqCXELTTymo)
+  19. `Watched` - [Text - Decoration And Transform](https://www.youtube.com/watch?v=E-7k6sySXwE)
+  20. `Watched` - [Text - Spacing](https://www.youtube.com/watch?v=Hphs2vBjmQs)
+  21. `Watched` - [Text - Overflow And Use Cases](https://www.youtube.com/watch?v=0uWk0Ucz3c4)
+  22. `Watched` - [Inheritance](https://www.youtube.com/watch?v=fXcY14cm4_I)
+  23. `Watched` - [Typography - Font Family](https://www.youtube.com/watch?v=ftjKy7AAjVU)
+  24. `Watched` - [Typography - Font Size And CSS Units](https://www.youtube.com/watch?v=LDGfu6O5mI8)
+  25. `Watched` - [Typography - Font Style And Variant And Weight](https://www.youtube.com/watch?v=-siTKk8QqHo)
+  26. `Watched` - [Mouse Cursor](https://www.youtube.com/watch?v=l2Oz9QKd1PU)
+  27. `Watched` - [Float And Clear](https://www.youtube.com/watch?v=ZAb-oI23Oc4)
+  28. `Watched` - [Mastering The CSS Calculation](https://www.youtube.com/watch?v=Sujl_fq_Ofc)
+  29. `Watched` - [Opacity](https://www.youtube.com/watch?v=-3Q7sjYxStM)
+  30. `Watched` - [Position](https://www.youtube.com/watch?v=-q5IyjKkKSc&t=472s)
+  31. `Watched` - [Z-Index](https://www.youtube.com/watch?v=Parqs9bbRMY)
+  32. `Watched` - [Lists Styling](https://www.youtube.com/watch?v=8VH59jP5s1M)
+  33. `Watched` - [Table Styling](https://www.youtube.com/watch?v=WgUbPZBh5cI&t=349s)
+  34. `Watched` - [Pseudo Classes](https://www.youtube.com/watch?v=vEAPPfJfpk0)
+  35. `Watched` - [Pseudo Elements - First Letter, First Line, Selection](https://www.youtube.com/watch?v=6bZCaDyimCI)
+  36. `Watched` - [Pseudo Elements - Before, After, Content](https://www.youtube.com/watch?v=OIWZ4EXwlnA)
+  37. `Watched` - [Pseudo Elements - Content And Trainings](https://www.youtube.com/watch?v=4WT2eO8aM7U)
+  38. `Watched` - [Vendor Prefixes](https://www.youtube.com/watch?v=ZLNzjq4U8Ws)
+  39. `Watched` - [Border Radius](https://www.youtube.com/watch?v=76-r7wWCdkM)
+  40. `Watched` - [Box Shadow And Examples](https://www.youtube.com/watch?v=QGdK5Lrqxcg)
+  41. `Watched` - [The Box Model And Box Sizing](https://www.youtube.com/watch?v=9PDCOviQOwo)
+  42. `Watched` - [Transition](https://www.youtube.com/watch?v=B9wYvMHLCVE&t=1s)
+  43. `Watched` - [!Important Declaration And Use Cases](https://www.youtube.com/watch?v=Lpy5XkEpp2A&t=126s)
+  44. `Watched` - [The Margin Collapse](https://www.youtube.com/watch?v=0Zek-O9bzAo)
+  45. `Watched` - [CSS Variables And Trainings](https://www.youtube.com/watch?v=qATtKrSvvEo)
+  46. `Watched` - [Flex Box Parent - Direction, Wrap, Flow](https://www.youtube.com/watch?v=JkCLL1CzNZk)
+  47. `Watched` - [Flex Box Parent - Justify Content](https://www.youtube.com/watch?v=_ScoBsCdJ7U)
+  48. `Watched` - [Flex Box Parent - Align Items](https://www.youtube.com/watch?v=Nn-tFHepLoo)
+  49. `Watched` - [Flex Box Parent - Align Content](https://www.youtube.com/watch?v=sOlpkte0gPs)
+  50. `Watched` - [Flex Box Child - Grow, Shrink, Order](https://www.youtube.com/watch?v=F5a6wj3hfbg)
+  51. `Watched` - [Flex Box Child - Flex Basis, Flex Shorthand](https://www.youtube.com/watch?v=0W8KopNcyRY)
+  52. `Watched` - [Flex Box Child - Align Self, Games, Task](https://www.youtube.com/watch?v=t2e4aYHrowQ)
+  53. `Watched` - [Finish Flex Froggy Game](https://www.youtube.com/watch?v=-sUqEXFzbII)
+  54. `Watched` - [Filters](https://www.youtube.com/watch?v=2v9ZhqX6YOk)
+  55. `Watched` - [Gradients](https://www.youtube.com/watch?v=Skjr9fycnio)
+  56. `Watched` - [Pointer Events And Caret Color](https://www.youtube.com/watch?v=I6zKVKCewDc&t=209s)
+  57. `Watched` - [Grid - Parent - Template Columns](https://www.youtube.com/watch?v=wYSAjaB3mL8)
+  58. `Watched` - [Grid - Parent - Template Rows And Gap](https://www.youtube.com/watch?v=gZ3XNPelC5Y)
+  59. `Watched` - [Grid - Parent - Justify Content And Align Content](https://www.youtube.com/watch?v=IsXAEilbm64)
+  60. `Watched` - [Grid - Parent - Complete Layout With Template Areas](https://www.youtube.com/watch?v=q6VtSllQHHo)
+  61. `Watched` - [Grid - Child - Grid Column And Grid Row](https://www.youtube.com/watch?v=7RZr_1qvR2g)
+  62. `Watched` - [Grid - Child - Grid Area And Trainings](https://www.youtube.com/watch?v=BJupwn_ii8g)
+  63. `Watched` - [Grid - Min, Max And Auto Fill](https://www.youtube.com/watch?v=NO4IeLSKNdw)
+  64. `Watched` - [Finish The Grid Garden Game](https://www.youtube.com/watch?v=-UvL4OoIsHo)
+  65. `Watched` - [2D Transform - Scale](https://www.youtube.com/watch?v=9KQP22oVCMg)
+  66. `Watched` - [2D Transform - Rotate](https://www.youtube.com/watch?v=AtOB_b0Cjyo)
+  67. `Watched` - [2D Transform - Translate](https://www.youtube.com/watch?v=PklNgYpJSXs)
+  68. `Watched` - [2D Transform - Skew](https://www.youtube.com/watch?v=N2G8JUK7kJs)
+  69. `Watched` - [2D Transform - Matrix](https://www.youtube.com/watch?v=OsypTHsvnVI)
+  70. `Watched` - [Transform - Origin](https://www.youtube.com/watch?v=DW0-7s_xJ90)
+  71. `Watched` - [3D Transform - Rotate](https://www.youtube.com/watch?v=WF9LU1IIERM&t=28s)
+  72. `Watched` - [3D Transform - Translate, Perspective, Perspective Origin](https://www.youtube.com/watch?v=FnIdCYWmJ8A)
+  73. `Watched` - [3D Transform - Backface Visibility And Flip Product](https://www.youtube.com/watch?v=7G-a-PHsGyM)
+  74. `Watched` - [Animation - KeyFrames, Name, Duration](https://www.youtube.com/watch?v=cfq7u52lvfI)
+  75. `Watched` - [Animation - Iteration Count, Timing Function, Spinner Loading](https://www.youtube.com/watch?v=NPy2GGDX-kg)
+  76. `Watched` - [Animation - Direction, Fill Mode, Play State, Delay](https://www.youtube.com/watch?v=P2QAAXONOac)
+  77. `Watched` - [Up And Down Loading Animation Training](https://www.youtube.com/watch?v=9Q8W2YK3dyk)
+  78. `Watched` - [CSS Selectors Reference Part 1](https://www.youtube.com/watch?v=PbKHU1Fb1oQ&t=340s)
+  79. `Watched` - [CSS Selectors Reference Part 2](https://www.youtube.com/watch?v=WPOpfk_eCVE)
+  80. `Watched` - [CSS Selectors Reference Part 3](https://www.youtube.com/watch?v=NJThXQrhmB0)
+  81. `Watched` - [CSS Selectors Reference Part 4](https://www.youtube.com/watch?v=s6vDg-XoZ_Y)
+  82. `Watched` - [CSS Selectors Reference Part 5](https://www.youtube.com/watch?v=eN9HxtDHREM)
+  83. `Watched` - [Media Queries And Responsive Designs Intro](https://www.youtube.com/watch?v=F9FAcVwSV4c)
+  84. `Watched` - [Media Queries And Responsive Designs Standards](https://www.youtube.com/watch?v=b2rWjPIZDT0)
+  85. `Watched` - [Media Queries And Responsive Designs Practice](https://www.youtube.com/watch?v=QdXQ0Wa9oPY)
+  86. `Watched` - [Create Your Framework](https://www.youtube.com/watch?v=xkFDwIPOzik)
+  87. `Watched` - [CSS Global Values](https://www.youtube.com/watch?v=iueBHixQyX0)
+  88. `Watched` - [The End And How To Master HTML And CSS](https://www.youtube.com/watch?v=YKUkssSbVls)
 
 </details>
 
@@ -136,47 +187,99 @@ Elzero Web School is a premier online platform offering a wide range of web deve
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td rowspan="9"><code>Solved</code></td>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-1-to-5/">Assignments From 01 To 05</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/1%20-%20Elements%20And%20Comments%2001%20~%2005">Code</a></td>
+      <tr>
+      <td colspan="3">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/AllamF5J/CSS_Course/tree/main/00%20-%20Lessons">All Lessons</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-6-to-10/">Assignments From 06 To 10</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/2%20-%20Heading%20And%20Attributes%2006%20~%2010">Code</a></td>
+      <td rowspan="20"><code>Solved</code></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-1-to-4/">Assignments From 01 To 04</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/01%20-%20Elements%20And%20Naming%2001%20~%2004">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-11-to-14/">Assignments From 11 To 14</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/3%20-%20Link%2C%20Image%2C%20List%2011%20~%2014">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-5-to-8/">Assignments From 05 To 08</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/02%20-%20Background%2C%20Margin%2C%20Padding%2005%20~%2008">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-15-to-18/">Assignments From 15 To 18</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/4%20-%20Table%2C%20Div%2015%20~%2018">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-9-to-12/">Assignments From 09 To 12</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/03%20-%20Border%2C%20Outline%2C%20Display%2009%20~%2012">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-19-to-23/">Assignments From 19 To 23</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/5%20-%20Audio%2C%20Video%2019%20~%2023">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-13-to-16/">Assignments From 13 To 16</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/04%20-%20Nesting%2C%20Dimensions%2C%20Overflow%2013%20~%2016">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-24-to-27/">Assignments From 24 To 27</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/6%20-%20Form%20Part%20One%2024%20~%2027">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-17-to-21/">Assignments From 17 To 21</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/05%20-%20Text%20Formatting%2017%20~%2021">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-28-to-30/">Assignments From 28 To 30</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/7%20-%20Form%20Part%20Two%2028%20~%2030">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-22-to-26/">Assignments From 22 To 26</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/06%20-%20Inheritance%2C%20Typography%2022%20~%2026">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-31-to-34/">Assignments From 31 To 34</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/8%20-%20Form%20Part%20Three%2031%20~%2034">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-27-to-29/">Assignments From 27 To 29</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/07%20-%20Float%2C%20Opacity%2027%20~%2029">Code</a></td>
     </tr>
     <tr>
-      <td><a href="https://elzero.org/html-assignments-lesson-from-35-to-37/">Assignments From 35 To 37</a></td>
-      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/9%20-%20iFrame%2C%20ARIA%2035%20~%2037">Code</a></td>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-30-to-33/">Assignments From 30 To 33</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/08%20-%20Position%2C%20List%2C%20Table%2030%20~%2033">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-34-to-37/">Assignments From 34 To 37</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/09%20-%20Pseudo%20Classes%2C%20Pseudo%20Elements%2034%20~%2037">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-38-to-41/">Assignments From 38 To 41</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/10%20-%20Border%20Radius%2C%20Box%20Shadow%2038%20~%2041">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-42-to-45/">Assignments From 42 To 45</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/11%20-%20Transitions%2C%20Variables%2042%20~%2045">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-46-to-53/">Assignments From 46 To 53</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/12%20-%20Flex%20Box%2046%20~%2053">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-54-to-56/">Assignments From 54 To 56</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/13%20-%20Filters%2C%20Gradient%2054%20~%2056">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-57-to-64/">Assignments From 57 To 64</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/14%20-%20Grid%2057%20~%2064">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-65-to-67/">Assignments From 65 To 67</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/15%20-%20Scale%2C%20Rotate%2C%20Translate%2065%20~%2067">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-68-to-73/">Assignments From 68 To 73</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/16%20-%20Skew%2C%20Matrix%2C%203D%20Transform%2068%20~%2073">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-74-to-77/">Assignments From 74 To 77</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/17%20-%20Animation%2074%20~%2077">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-78-to-82/">Assignments From 78 To 82</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/18%20-%20Selectors%2079%20~%2082">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-83-to-85/">Assignments From 83 To 85</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/19%20-%20Media%20Queries%2083%20~%2085">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/css-assignments-lesson-from-86-to-88/">Assignments From 86 To 88</a></td>
+      <td><a href="https://github.com/AllamF5J/CSS_Course/tree/main/20%20-%20Global%20Values%2086%20~%2088">Code</a></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td colspan="3" style="text-align: center;">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://progress-bar.dev/100/?title=Done">
           <img src="https://progress-bar.dev/100/?title=Done" alt="100%">
         </a>
