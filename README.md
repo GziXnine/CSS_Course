@@ -56,7 +56,7 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 - **Total Videos**: [88 of 88] - Duration: 11 Hours, 28 Minutes, 51 Seconds  
   ![100%](https://progress-bar.dev/100/?title=Watched)  
 
-<details>
+<details open>
   <br>
     <summary><mark><span>👉</span> Click Here To Watch Videos In </mark><strong>YouTube</strong></summary>
 
